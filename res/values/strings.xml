@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+   <resources>
+	<string name="welcomeText">Iphone 样式的AlertDialog\n\n</string>
+	<string name="app_name">iPhone Alert</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
